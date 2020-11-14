@@ -1,0 +1,8 @@
+/build
+/dist
+/.idea
+/.git
+/__pycache__
+*.iml
+*.spec
+/translations
